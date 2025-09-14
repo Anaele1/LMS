@@ -1,0 +1,19 @@
+{
+  "name": "lms",
+  "version": "1.0.0",
+  "description": "online learning web development",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anaele1/LMS.git"
+  },
+  "author": "Profit Anaele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anaele1/LMS/issues"
+  },
+  "homepage": "https://github.com/Anaele1/LMS#readme"
+}
